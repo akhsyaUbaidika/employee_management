@@ -153,11 +153,6 @@ employee_management/
 
 ---
 
-## License
-This project is licensed under the MIT License. See the `LICENSE` file for details.
-
----
-
 ## Contributing
 Feel free to fork this project and submit pull requests for any improvements or additional features.
 
