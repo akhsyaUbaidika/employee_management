@@ -26,7 +26,7 @@ This project is a **REST API** for managing employees, built using **Node.js**, 
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/employee_management.git
+git clone https://github.com/akhsyaUbaidika/employee_management.git
 cd employee_management
 ```
 
